@@ -1,0 +1,23 @@
+{
+  "name": "music_vue",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@any-touch/core": "^2.0.2",
+    "@any-touch/pan": "^2.0.2",
+    "axios": "^1.3.3",
+    "pinia": "^2.0.29",
+    "vue": "^3.2.45",
+    "vue-router": "4",
+    "vue3-carousel": "^0.2.9"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "vite": "^4.0.0"
+  }
+}
